@@ -1,0 +1,76 @@
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.exe
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.deps.json
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.runtimeconfig.json
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.runtimeconfig.dev.json
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.pdb
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.csproj.AssemblyReference.cache
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.AssemblyInfoInputs.cache
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.AssemblyInfo.cs
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.csproj.CoreCompileInputs.cache
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\staticwebassets\Simple Auth System Project.StaticWebAssets.Manifest.cache
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\staticwebassets\Simple Auth System Project.StaticWebAssets.xml
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Simple Auth System Project.styles.css
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.RazorTargetAssemblyInfo.cache
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.dll
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.pdb
+C:\Users\Utilizator\source\repos\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.genruntimeconfig.cache
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.exe
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.deps.json
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.runtimeconfig.json
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.runtimeconfig.dev.json
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Simple Auth System Project.pdb
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.csproj.AssemblyReference.cache
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.AssemblyInfoInputs.cache
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.AssemblyInfo.cs
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.csproj.CoreCompileInputs.cache
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\staticwebassets\Simple Auth System Project.StaticWebAssets.Manifest.cache
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\staticwebassets\Simple Auth System Project.StaticWebAssets.xml
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Simple Auth System Project.styles.css
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.RazorTargetAssemblyInfo.cache
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.dll
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.pdb
+C:\Users\Utilizator\source\repos\SimpleAuthSystem Practical\Simple Auth System Project\obj\Debug\netcoreapp3.1\Simple Auth System Project.genruntimeconfig.cache
